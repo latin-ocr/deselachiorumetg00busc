@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deselachiorumetg00busc_0066.png"; bbox 0 0 2499 3660; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 94 3304 257 3329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 3304 257 3329">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 3304 257 3329; baseline -0.012 -5"><span class='ocrx_word' id='word_1_1' title='bbox 94 3312 133 3327; x_wconf 54' lang='grc' dir='ltr'><strong><em>,ψ-Ᾰ,</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 142 3312 151 3323; x_wconf 83' lang='grc' dir='ltr'><em>ι’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 159 3304 257 3329; x_wconf 64' lang='grc' dir='ltr'><em>ΓΗῖζιῃιΝ·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2271 142 2340 169">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2271 142 2340 169">
+     <span class='ocr_line' id='line_1_2' title="bbox 2271 142 2340 169; baseline -0.014 -7"><span class='ocrx_word' id='word_1_4' title='bbox 2271 144 2307 169; x_wconf 61' lang='lat' dir='ltr'><em>Tus.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2320 142 2340 161; x_wconf 69' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 80 284 2350 3190">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 80 284 2350 3190">
+     <span class='ocr_line' id='line_1_3' title="bbox 80 284 2350 3190; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 80 284 2350 3190; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2197 3287 2384 3316">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2197 3287 2384 3316">
+     <span class='ocr_line' id='line_1_4' title="bbox 2197 3287 2384 3316; baseline -0.011 -7"><span class='ocrx_word' id='word_1_7' title='bbox 2197 3293 2247 3316; x_wconf 46' lang='lat' dir='ltr'><em>„gesa</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2256 3297 2265 3307; x_wconf 67' lang='grc' dir='ltr'><em>τ’</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2279 3287 2315 3308; x_wconf 54' lang='grc' dir='ltr'><em>(Ἢ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2323 3287 2384 3307; x_wconf 56' lang='lat' dir='ltr'><em>lii-ber</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
